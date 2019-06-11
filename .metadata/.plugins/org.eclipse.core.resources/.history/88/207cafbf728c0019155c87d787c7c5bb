@@ -32,15 +32,6 @@ public class variable {
 		int x = 4 ;
 		int y = 3;
 		int z = 2;
-		int a = 5;
-		int b = (a+z)*x;
-		int c = b + y;
-		
-		System.out.println("b is "+ b);
-		System.out.println("c is "+ c);
-		System.out.println(x+y+z);
-		
-		
 		
 	}
 }	
