@@ -1,0 +1,11 @@
+package java_useful;
+
+public class datatype {
+	public static void main(String args[]) {
+		byte mynum = 100;
+		System.out.println(mynum);
+		
+		float numnum = 1.99f;
+		System.out.println(numnum);
+	}
+}
