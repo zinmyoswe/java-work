@@ -1,0 +1,18 @@
+package java_useful;
+
+public class variable {
+	public static void main(String args[]) {
+		String name = "Thura Aung";
+		System.out.println(name);
+				
+		int age = 17;
+		System.out.println(age);
+		
+		int mygirl;
+		mygirl = 4;
+		System.out.println(mygirl);
+		
+		String myname = "Thura lay";
+		System.out.println("Hello"+ myname);
+	}
+}	
