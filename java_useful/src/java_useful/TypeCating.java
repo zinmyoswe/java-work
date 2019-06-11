@@ -7,5 +7,13 @@ public class TypeCating {
 		
 		System.out.println(myint);
 		System.out.println(mydouble);
+		
+		double mydd = 9.78;
+		int myii = (int) mydd;
+		
+		System.out.println(mydd);
+		System.out.println(myii);
+		
+		
 	}
 }
