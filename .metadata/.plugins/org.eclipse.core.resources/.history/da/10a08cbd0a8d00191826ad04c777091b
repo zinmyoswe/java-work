@@ -1,0 +1,11 @@
+package java_useful;
+
+public class do_while {
+	public static void main(String args[]) {
+		int x = 10;
+		do {
+			
+		}
+		while( x < 20);
+	}
+}
