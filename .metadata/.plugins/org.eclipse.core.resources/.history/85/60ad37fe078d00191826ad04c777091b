@@ -1,0 +1,11 @@
+package java_useful;
+
+public class switch_1 {
+	public static void main(String args[]) {
+		switch(int day=4) {
+		case 1;
+		System.out.println("Monday");
+		break;
+		}
+	}
+}
