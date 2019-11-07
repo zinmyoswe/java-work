@@ -7,6 +7,6 @@ public class do_while {
 			System.out.println(x);
 			x++;
 		}
-		while( x < 20);
+		while( x < 12);
 	}
 }

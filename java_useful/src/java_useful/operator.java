@@ -10,6 +10,7 @@ public class operator {
 		int c = 3;
 		int e = 5;
 		int f = 5;
+		int k =36;
 		x += 5;
 		y /=5;
 		z %=5;
@@ -18,6 +19,7 @@ public class operator {
 		c ^= 8;
 		e >>= 6;
 		f <<= 6;
+		k |= 15;
 		
 //		logical operator
 		int g = 5;
@@ -29,13 +31,17 @@ public class operator {
 		System.out.println(y);
 		System.out.println(z);
 		System.out.println(a);
+		System.out.println("------------");
 		System.out.println(b);
 		System.out.println(c);
+		System.out.println("------------");
 		System.out.println(e);
 		System.out.println(f);
+		System.out.println("------------");
 		System.out.println(g > 3 && g <10);
 		System.out.println(h > 3 || h < 4);
 		System.out.println(!(g > 3 && g < 10));
+		System.out.println(k);
 		
 	}
 }

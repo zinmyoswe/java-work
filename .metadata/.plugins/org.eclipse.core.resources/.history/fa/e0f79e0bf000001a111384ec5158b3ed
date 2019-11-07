@@ -1,0 +1,13 @@
+package java_useful;
+
+public class method2 {
+	
+	static void Checkage(int age) {
+		if(age < 18) {
+			throw new ArithmeticException("Access denied - You must be at least 18 years old.");
+		}
+	}
+	public static void main(String args[]) {
+		
+	}
+}

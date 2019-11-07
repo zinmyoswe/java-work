@@ -35,5 +35,8 @@ public class string {
 		String z = x+y;
 		System.out.println(z);
 		
+		String name = "zinmyo";
+		System.out.println("my name is "+name);
+		
 	}
 }

@@ -1,0 +1,7 @@
+package java_useful;
+
+public class operator_test {
+	int x = 3;
+	
+	System.out.println(x);
+}

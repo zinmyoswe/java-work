@@ -1,0 +1,11 @@
+package java_useful;
+
+public class myclass1 {
+	static void staticmethod() {
+		
+	}
+	
+	public void pubmethod() {
+		
+	}
+}

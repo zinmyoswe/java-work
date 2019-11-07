@@ -1,0 +1,9 @@
+package java_useful;
+
+public class for_loop3 {
+	String[] cars = {"toyo","honda","suzi"};
+	
+	for( i:cars) {
+		System.out.println(i);
+	}
+}
