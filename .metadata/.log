@@ -4274,3 +4274,57 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.jface.text 2 0 2019-11-15 00:31:50.202
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:34.383
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bqLvSCaW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:34.384
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.bqLvSCaW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:34.384
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:34.384
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bqLvSCaW => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.251
+!MESSAGE Boot LS startup time from start to initialized: 2708ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.267
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.FOUnoHZJ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.268
+!MESSAGE subscribing to classpath changes: sts4.classpath.FOUnoHZJ
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.268
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.268
+!MESSAGE subsribers = [sts4.classpath.FOUnoHZJ]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.268
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.452
+!MESSAGE project java_useful ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.452
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.452
+!MESSAGE Preparing classpath changed notification java_useful
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.452
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.FOUnoHZJ => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.452
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.454
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.454
+!MESSAGE executing callback sts4.classpath.FOUnoHZJ java_useful false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-11-15 00:39:37.469
+!MESSAGE executing callback sts4.classpath.FOUnoHZJ SUCCESS [done]
