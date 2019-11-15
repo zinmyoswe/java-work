@@ -1,0 +1,8 @@
+package java_useful;
+import java.io.FileWriter;
+
+public class WriteToFile {
+	public static void main(String[] args) {
+		
+	}
+}
