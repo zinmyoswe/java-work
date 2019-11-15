@@ -1,8 +1,0 @@
-package java_useful;
-import java.io.File;
-
-public class java_file {
-	public static void main(String[] args) {
-		File myObj = new File("D:\\Tutorial2\\file1.txt");
-	}
-}

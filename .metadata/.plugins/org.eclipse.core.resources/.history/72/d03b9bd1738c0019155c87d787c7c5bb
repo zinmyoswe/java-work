@@ -1,8 +1,0 @@
-package java_useful;
-
-public class datatype {
-	public static void main(String args[]) {
-		byte mynum = 1000;
-		System.out.println(mynum);
-	}
-}

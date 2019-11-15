@@ -1,8 +1,0 @@
-package java_useful;
-
-public class string {
-	public static void main(String args[]) {
-		String txt ="";
-		System.out.println("The length of the string is"+ txt.length());
-	}
-}

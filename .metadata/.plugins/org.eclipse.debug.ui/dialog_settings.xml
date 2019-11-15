@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<section name="Workbench">
-	<section name="org.eclipse.debug.ui.SCOPED_SAVE_SELECTION_DIALOG">
-		<item value="311" key="DIALOG_WIDTH"/>
-		<item value="1|Zawgyi-One|6.6|0|WINDOWS|1|-11|0|0|0|400|0|0|0|0|0|0|0|0|Zawgyi-One" key="DIALOG_FONT_NAME"/>
-		<item value="413" key="DIALOG_HEIGHT"/>
-	</section>
-</section>
